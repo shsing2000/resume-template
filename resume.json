@@ -1,130 +1,367 @@
 {
   "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
-    "picture": "",
-    "email": "richard.hendriks@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "https://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "name": "Samuel Hsing",
+    "label": "Software Engineer at Hart, Inc.",
+    "phone": "(951) 892-6269",
+    "website": "",
+    "summary": "A full stack developer specializing in Node.js, Go, .NET, Javascript, and SQL Server technologies for large scale, distributed services. Strong proficiency with Node.js, Golang, C#, API Gateways, Restful API, Javascript, Lucene, LINQ and KnockoutJS. Seasoned in navigating large legacy codebases with a keen eye on testability and reusability. Always interested in fast-paced projects utilizing technology to provide cost-effective solutions.\n\nSpecialties: Web Development and client-side frameworks, Microservice architecture, Restful API, TDD technologies, .NET, AJAX, jQuery, Lucene.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "17407 Laurelbrook Ct.",
+      "postalCode": "90703",
+      "city": "Cerritos",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "sam.hsing@gmail.com",
+        "url": "https://www.linkedin.com/in/samuelhsing/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Github",
+        "username": "shsing2000",
+        "url": "https://github.com/shsing2000"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "https://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
-  ],
-  "volunteer": [
+      "company": "Hart, Inc.",
+      "position": "Software Engineer",
+      "website": "https://hart.com/",
+      "startDate": "2017-01-01",
+      "summary": "Build restful microservices in Node.js to manage patient records utilizing koa, waterline, sails, and couchdb. Perform custom task integration with Allscripts Touchworks EHR (Unity) and Hart data systems. Establish an automated test-driven framework for the node team, utilizing jasmine and istanbul, with Jenkins build integrations.",
+      "highlights": [],
+      "endDate": "2017-04-01"
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "https://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "company": "Veritone, Inc.",
+      "position": "Technical Lead",
+      "website": "https://www.veritone.com/",
+      "startDate": "2016-06-01",
+      "summary": "Guide a full-stack team to rebuild the customer administration portal for internal and external users, utilizing: Angular, Node, Express, Redis, Go, Postgres. At the same time, unify the user model and customer provisioning process under a single \"source-of-truth\" Express-based restful API. \n\nArchitect and implement permissions/authorization scopes for Express middleware. Exposed server-side scopes on the frontend, by building Angular directives. Integrated the new permissions model across existing applications, and provided a means to administer the permissions through an administration portal. Designed a JWT authentication system to replace the current session-based scheme. Managed and delivered a consumer-facing signup experience with Segment.io and Intercom-triggered tour guides.",
+      "highlights": [],
+      "endDate": "2016-12-01"
+    },
+    {
+      "company": "SendGrid",
+      "position": "Senior Software Engineer",
+      "website": "https://sendgrid.com/",
+      "startDate": "2014-11-01",
+      "summary": "Led a team to retool SendGrid's whitelabeling process through a golang microservice architecture. Developed a deep knowledge of email deliverability topics including DKIM, feedback loops, and associated DNS records. Architected and implemented an expansive IP access management system, which included a myriad of technologies: Golang, Python, Javascript, Redis, Hystrix, Grafana. •\tDesigned and implemented 2-factor authentication using Authy.\nWorked as a full stack developer from our Python data access layer, utilizing SQLAlchemy, through Golang microservices, Python reverse proxies, and Backbone.js on the frontend. I am fully comfortable working at all levels in the development stack.\n\nAs a lead, I provided guidance on technical decisions and translated business requirements to actionable tasks, sprints, and project timelines. I drafted engineering documents detailing architecture, sequence diagrams, service contracts, and input the accompanying tasks into Jira. I managed project deliverables and navigated obstacles, while actively contributing code to the team.",
+      "highlights": [],
+      "endDate": "2016-05-01"
+    },
+    {
+      "company": "CoStar Group",
+      "position": "Technical Lead",
+      "website": "http://www.loopnet.com/",
+      "startDate": "2011-11-01",
+      "summary": "Led a team to analyze and take ownership of a legacy Visual Basic 6.0 COM codebase.  Drafted a strategy for legacy code conversion to C# and executed with a seamless transition to production environments.  Utilized TDD methodologies to ensure expected code behavior and uphold data integrity during legacy code conversion.  Migrated classic ASP pages to the .NET framework by refactoring major sections of the codebase as part of the legacy conversion.  Provided guidance on implementing a distributed caching system using Memcached.\nManaged project lifecycles in accordance to agile methodologies and set up related sprint planning and reporting activities in TFS.  Facilitated project progress and played an active role in development and coordination between multiple development, design, and testing teams.",
+      "highlights": [],
+      "endDate": "2014-11-01"
+    },
+    {
+      "company": "Engroove Consulting",
+      "position": "Consultant",
+      "website": "",
+      "startDate": "2011-10-01",
+      "summary": "Adhered to a TDD process by writing NUnit tests to validate domain models, business logic, error handling, and connectivity, then writing the actual implementations to pass the tests.  Utilized the MVC framework to develop a web-based scientific content management system with custom report generation capabilities and automatic report versioning.  Created workflow processes which triggered associated tasks and event-driven notification systems.  Incorporated RESTful services with jQuery Templates, AJAX, and Lucene .NET to provide the user with responsive document repository search capabilities.  Performed extensive jQuery plugin development to provide multiple client-side report viewing modes, keyword search & highlighting, adjustable text size controls, table of contents scrolling, window docking and pullout panes, search paging, Lucene hit highlighting, adjustable fragment size for hit contexts, and text copying functionality.  Wrote deep object copying and comparison routines to clone objects and to determine object value equality.  Used for internal audit and object versioning purposes.  Created NHibernate mappings in order to auto generate relational database objects, and worked with NHibernate 3.0 QueryOver API to retrieve/update data.  Wrote scraping routines using .NET to collect and index scientific reference data from a variety of sources, including: PDF, DOC, HTML.",
+      "highlights": [],
+      "endDate": "2013-08-01"
+    },
+    {
+      "company": "ExerciseTV",
+      "position": "Senior .NET Engineer",
+      "website": "",
+      "startDate": "2011-08-01",
+      "summary": "Set up Development, Staging, and Production environments for a customer facing e-commerce site running Windows 2008 R2, SQL Server 2008, Enyim Membase, Solr search + Jetty, and TeamCity build server.  Worked extensively with MVC 3.0 & Razor view engine to build an e-commerce site and related backend API for admin web devices.  Wrote client side code using jQuery to perform UI activity, client data processing with JSON web services, and data display using templates.  Developed two-way friend connection functionality with activity stream logging for social interaction portion of the site.  Implemented online payment processing with CyberSource and Paypal for store checkout and subscription billing.  Worked with Entity Framework and Fluent NHibernate ORM technologies to abstract data access.  Developed unit tests using NUnit with Moq and Autofac to validate business logic.",
+      "highlights": [],
+      "endDate": "2011-10-01"
+    },
+    {
+      "company": "Wells Fargo Home Mortgage",
+      "position": "AVP Information Mgmt.",
+      "website": "",
+      "startDate": "2004-03-01",
+      "summary": "Managed server environments for DEV, UAT, and Production for over 9000 users.  Performed server & database migrations multiple times for technology refresh cycles.  Oversaw database administration role for multiple SQL Server 2005 servers.  Standardized code management, testing, documentation, and deployment procedures for our development team.  Extensive development with AJAX and .NET web services integrated into interactive web applications with rich GUI.  Wrote .NET XML web services and .NET applications to access TN 3270 mainframe connections through server-side terminal emulation.  Created a navigation engine to perform automatic screen navigation, data retrieval, and session pooling.  Developed dynamic loan document creation system using XML data combined with Active Report and OpenXML templates.  Performed SQL Server 2000/2005 maintenance, programming, DTS packaging, backup scheduling, and replication.  Developed Windows Services that interfaced with mainframes using IBM WebShpere Message Queues.",
+      "highlights": [],
+      "endDate": "2011-08-01"
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "institution": "USC - Marshall School of Business",
+      "area": "",
+      "studyType": "MBA",
+      "startDate": "2006-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2009-01-01"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
+      "name": "ASP",
+      "level": "",
+      "keywords": []
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Golang",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Entity Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Basic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NUnit",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Language Integrated Query (LINQ)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Representational State Transfer (REST)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Distributed Caching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Moq",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Legacy Conversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Memcached",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active Reports",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": ".NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backbone.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lucene .NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodolgy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "KnockoutJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "COM",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lucene",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marionette",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Github",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "RESTful architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mentoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LINQ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SDLC",
+      "level": "",
+      "keywords": []
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Native or bilingual"
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Professional working"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
+  "references": []
 }
